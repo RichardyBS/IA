@@ -60,11 +60,3 @@ npm install
 ```
 
 ---
-
-# Grupo EcoEnergy - 1TDSPW 
-
-- Ruan Lima Silva - RM 558775
-- Richardy Borges - RM 557883
-- Henrique Izzi - RM 555413
-
----
